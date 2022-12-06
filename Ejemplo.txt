@@ -1,0 +1,3 @@
+Hola buenas esto es una prueba 
+Para el lector de archivos del ejercicio 12 de la práctica 3
+de Software y Estándares de la Web

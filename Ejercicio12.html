@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>
+    <!--Datos que describen el documento-->
+    <meta charset="UTF-8">
+    <!--Metadatos de los documentos HTML5-->
+    <meta name ="author" content ="Sara Lamuño" >
+    <meta name ="description" content ="Ejercicio 12 de JQuery" >
+    <meta name ="keywords" content ="Calculadora, más, menos, por,entre" >
+
+    <meta name ="viewport" content ="width=device-width, initial-scale=1.0" >
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src = "Ejercicio12.js" ></script>
+    
+
+    <title>Subida de archivos</title>
+    <!--Añadir el elemento link de enlace a la hoja de estilo dento del <head> del documento html-->
+   
+     
+    <link rel="stylesheet" type="text/css" href="Ejercicio12.css">
+
+</head>
+
+<body>
+    <h1>Subida de archivos para ver sus propiedades</h1>
+    
+    <h2>Sube aquí tu archivo: </h2>
+    <main>
+        <label for="upload">Subir archivos</label>
+        <input id="upload" type="file" name="upload" onchange="lector.infoArchivos()" multiple="">
+
+    </main>
+
+
+

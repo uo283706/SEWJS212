@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona xmlns = "http://tempuri.org/persona" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "http://tempuri.org/persona persona.xsd">
+    <datos>
+        <nombre>Sara</nombre>
+        <apellidos>Lamuño</apellidos>
+        <fecha> 2018-10-20 </fecha>
+        <lugarNac>Oviedo</lugarNac>
+        <Point>
+            <coordinates>
+                 -5.848486696884225,43.362243395262915
+            </coordinates>
+            <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+        <lugarRes>Colloto</lugarRes>
+        <Point1>
+            <coordinates1>
+                -5.798072327687263,43.37706124441714
+            </coordinates1>
+            <altitudeMode1>relativeToGround</altitudeMode1>
+        </Point1>
+        <comentario> Hola buenas,soy Sara, encantada :) </comentario>
+        <imagen src = "https://as01.epimg.net/diarioas/imagenes/2022/05/29/actualidad/1653826510_995351_1653826595_noticia_normal_recorte1.jpg">Mi imagen principal</imagen>
+        <imagen src = "https://media.traveler.es/photos/613760adcb06ad0f20e11980/master/w_1600%2Cc_limit/202931.jpg">Mi mejor imagen</imagen>
+        <video src = "https://www.youtube.com/watch?v=GiOJEjWeShI">Mi video increíble</video>
+    </datos>
+    <persona>
+      <datos>
+        <nombre>Pepito</nombre>
+        <apellidos>Alvarez</apellidos>
+        <fecha> 2012-10-10 </fecha>
+        <lugarNac>Avilés</lugarNac>
+        <Point>
+            <coordinates>
+                -5.924372427369963,43.55840970081683
+            </coordinates>
+            <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+        <lugarRes>Madrid</lugarRes>
+        <Point1>
+            <coordinates1>
+                -3.7049517826504097,40.422189569464635
+            </coordinates1>
+            <altitudeMode1>relativeToGround</altitudeMode1>
+        </Point1>
+        <comentario> Amigo de Sara </comentario>
+        <imagen src = "https://t1.ea.ltmcdn.com/es/posts/5/6/2/10_caracteristicas_de_los_perros_24265_600_square.jpg">Mi extraordinaria imagen</imagen>
+      </datos>
+      <persona>
+        <datos>
+            <nombre>Kevin</nombre>
+            <apellidos>Hernández</apellidos>
+            <fecha> 2022-10-11 </fecha>
+            <lugarNac>Madrid</lugarNac>
+            <Point>
+            <coordinates>
+                -3.7049517826504097,40.422189569464635
+            </coordinates>
+            <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>Barcelona</lugarRes>
+            <Point1>
+                <coordinates1>
+                   2.156306504037684,41.390775850847156
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> Hola buenas tardes </comentario>
+            <imagen src = "https://www.petdarling.com/wp-content/uploads/2020/11/razas-de-perros.jpg">Mi maravillosa imagen</imagen>
+            <video src = "https://www.youtube.com/watch?v=sUziMqww5Lc">Mi video extraordinario</video>
+            <video src = "https://www.youtube.com/watch?v=Ryhv0Gguljs">Mi video fantástico</video>
+        </datos>
+      </persona>
+      <persona>
+        <datos>
+            <nombre>Laura</nombre>
+            <apellidos>González</apellidos>
+            <fecha> 2000-12-12 </fecha>
+            <lugarNac>Madrid</lugarNac>
+            <Point>
+                <coordinates>
+                    -3.7049517826504097,40.422189569464635
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>Oviedo</lugarRes>
+            <Point1>
+                <coordinates1>
+                   -5.848486696884225,43.362243395262915
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> Hola buenas noches </comentario>
+            <imagen src = "https://s1.eestatic.com/2022/04/19/curiosidades/mascotas/666193753_223665686_1024x576.jpg">Mi hermosa imagen</imagen>
+            <video src = "https://www.youtube.com/watch?v=F4nXMFtfucg">Mi video</video>
+            <video src = "https://www.youtube.com/watch?v=RqiSvdW0oQM">Mi video curioso</video>
+            <video src = "https://www.youtube.com/watch?v=u-qSXtbrOxE">Mi video raro</video>
+        </datos>
+      </persona>
+      <persona>
+        <datos>
+            <nombre>Álvaro</nombre>
+            <apellidos>Gil</apellidos>
+            <fecha> 1209-12-10 </fecha>
+            <lugarNac>Avilés</lugarNac>
+            <Point>
+                <coordinates>
+                     -5.924372427369963,43.55840970081683
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>León</lugarRes>
+            <Point1>
+                <coordinates1>
+                    -5.572241600572139,42.59956091791025
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> Hola buenos días </comentario>
+            <imagen src = "https://estaticos-cdn.prensaiberica.es/clip/a5ee7a2a-6f63-4ab9-8986-ba83113aca56_16-9-discover-aspect-ratio_default_0.jpg">Mi magnífica imagen</imagen>
+        </datos>
+      </persona>
+    </persona>
+
+    <persona>
+      <datos>
+        <nombre>Alberto</nombre>
+        <apellidos>González</apellidos>
+        <fecha> 2023-10-10 </fecha>
+        <lugarNac>Gijón</lugarNac>
+        <Point>
+                <coordinates>
+                    -5.661588652210097,43.532045373438955
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+        <lugarRes>Gijón</lugarRes>
+        <Point1>
+                <coordinates1>
+                    -5.661588652210097,43.532045373438955
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+        </Point1>
+        <comentario> Amigo de Sara 2</comentario>
+        <imagen src = "https://estaticos-cdn.prensaiberica.es/clip/e1c20447-c530-4f05-90de-4800e6c78b38_16-9-aspect-ratio_default_0.jpg">Mi imagen favorita</imagen>
+		<imagen src = "https://laverdadnoticias.com/__export/1654123913244/sites/laverdad/img/2022/06/01/razas_de_perros_que_se_consideran_las_mas_caras_de_todo_el_planeta_1.jpg_1773320916.jpg">Mi imagen preferida</imagen>
+      </datos>
+      <persona>
+        <datos>
+            <nombre>Lucía</nombre>
+            <apellidos>Gómez</apellidos>
+            <fecha> 2011-11-11 </fecha>
+            <lugarNac>Madrid</lugarNac>
+            <Point>
+                <coordinates>
+                    -3.7049517826504097,40.422189569464635
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>Madrid</lugarRes>
+            <Point1>
+                <coordinates1>
+                    -3.7049517826504097,40.422189569464635
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> Disfrutando de la vida </comentario>
+            <imagen src = "https://images.ecestaticos.com/lifexbg6yiaK4ecV_i_ok4QF5E4=/0x0:1000x750/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b9%2F6f9%2Fb7e%2F4b96f9b7eeaba9a22f864fe7ad663f58.jpg">Mi imagen estrella</imagen>
+        </datos>
+      </persona>
+      <persona>
+        <datos>
+            <nombre>Juan</nombre>
+            <apellidos>Pérez</apellidos>
+            <fecha> 2021-12-12 </fecha>
+            <lugarNac>Barcelona</lugarNac>
+            <Point>
+                <coordinates>
+                    2.156306504037684,41.390775850847156
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>Barcelona</lugarRes>
+            <Point1>
+                <coordinates1>
+                    2.156306504037684,41.390775850847156
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> Con ganas de vacaciones </comentario>
+            <imagen src = "https://www.concierto.cl/wp-content/uploads/2022/10/Perros-768x432.jpg">Mi imagen top</imagen>
+        </datos>
+      </persona>
+      <persona>
+        <datos>
+            <nombre>Hugo</nombre>
+            <apellidos>Gutíerrez</apellidos>
+            <fecha> 1230-12-10 </fecha>
+            <lugarNac>Oviedo</lugarNac>
+            <Point>
+                <coordinates>
+                    -5.848486696884225,43.362243395262915
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>Gijón</lugarRes>
+            <Point1>
+                <coordinates1>
+                    -5.661416990841658,43.53179646761993
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> Esperando a la Navidad </comentario>
+            <imagen src = "https://images.ecestaticos.com/rDcE49nJuz8iH615GfOLKFrUM1g=/118x0:1999x1412/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7f5%2F6fa%2F1bf%2F7f56fa1bfb6ff3f8075e09a1964ba4ac.jpg">Mi imagen más popular</imagen>
+            <video src = "https://www.youtube.com/watch?v=bJIDtLOHLd0.mp4">Mi video editado</video>
+        </datos>
+      </persona>
+    </persona>
+    <persona>
+      <datos>
+        <nombre>Alan</nombre>
+        <apellidos>Suárez</apellidos>
+        <fecha> 2002-10-10 </fecha>
+        <lugarNac>Oviedo</lugarNac>
+        <Point>
+                <coordinates>
+                     -5.848486696884225,43.362243395262915
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+        <lugarRes>Barcelona</lugarRes>
+        <Point1>
+                <coordinates1>
+                    2.156306504037684,41.390775850847156
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+        </Point1>
+        <comentario> Amigo de Sara 3 </comentario>
+        <imagen src = "https://elcomercio.pe/resizer/n9xiSYV8fPQeZmHOfZCvh_Gg3Xo=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/WONCHKUMK5DIDCIDRXGEB2JFSU.jpg">Mi imagen más bonita</imagen>
+      </datos>
+      <persona>
+        <datos>
+            <nombre>Óscar</nombre>
+            <apellidos>Ganado</apellidos>
+            <fecha> 1502-10-11 </fecha>
+            <lugarNac>León</lugarNac>
+            <Point>
+                <coordinates>
+                    -5.572241600572139,42.59956091791025
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>Avilés</lugarRes>
+            <Point1>
+                <coordinates1>
+                    -5.924372427369963,43.55840970081683
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> x = x + 1; </comentario>
+            <imagen src = "https://cdn-prod.medicalnewstoday.com/content/images/articles/325/325511/close-up-of-beagle.jpg">Mi imagen más antigua</imagen>
+        </datos>
+      </persona>
+      <persona>
+        <datos>
+            <nombre>Julieta</nombre>
+            <apellidos>García</apellidos>
+            <fecha> 2012-10-12 </fecha>
+            <lugarNac>Gijón</lugarNac>
+            <Point>
+                <coordinates>
+                    -5.661588652210097,43.532045373438955
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>Avilés</lugarRes>
+            <Point1>
+                <coordinates1>
+                    -5.924372427369963,43.55840970081683
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> Me encantan los postres </comentario>
+            <imagen src = "https://www.ngenespanol.com/wp-content/uploads/2022/08/estudio-ayuda-a-conocer-origen-de-los-perros.jpg">Mi imagen</imagen>
+        </datos>
+      </persona>
+      <persona>
+        <datos>
+            <nombre>Kiko</nombre>
+            <apellidos>Fernández</apellidos>
+            <fecha> 2013-12-13 </fecha>
+            <lugarNac>Oviedo</lugarNac>
+            <Point>
+                <coordinates>
+                    -5.848486696884225,43.362243395262915
+                </coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+            <lugarRes>Oviedo</lugarRes>
+            <Point1>
+                <coordinates1>
+                    -5.848486696884225,43.362243395262915
+                </coordinates1>
+                <altitudeMode1>relativeToGround</altitudeMode1>
+            </Point1>
+            <comentario> Lo mejor de levantarse es un buen café </comentario>
+            <imagen src = "https://media.theobjective.com/2019/05/perros-de-trabajo-que-hariamos-sin-ellos-2.jpg">Mi imagen más especial</imagen>
+        </datos>
+      </persona>
+    </persona>
+</persona>
