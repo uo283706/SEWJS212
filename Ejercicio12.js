@@ -6,9 +6,9 @@ class lectorArchivos {
 
     }
 
-    checkearApiFile(){
+    checkAPILine(){
 
-            // Version 1.1 23/10/2021 
+           
         if (!(window.File && window.FileReader && window.FileList && window.Blob)) 
         {  
             alert("Este navegador NO soporta la subida de archivos");
@@ -18,7 +18,7 @@ class lectorArchivos {
 
     }
     
-    infoArchivos() {
+    getInfo() {
             this.totalBytes = 0;
             this.fileArray  = document.querySelector("input").files;
             this.nFiles = this.fileArray.length;
@@ -35,10 +35,10 @@ class lectorArchivos {
 
         $('input').before("" + tit2 +" <p>Total de bytes: " + this.totalBytes + "<p>" + infoBasica);
        
-        this.mostrarContenidoArchivos();
+        this.mostrarDoc();
     }
 
-    mostrarContenidoArchivos(){
+    mostrarDoc(){
         var file;
      
         $('input').before("<h2>Contenido de los archivos</h2>");
@@ -47,7 +47,7 @@ class lectorArchivos {
             
             file = this.fileArray[i];
             
-            this.leerArchivo(file);
+            this.read(file);
 
 
         }
@@ -56,7 +56,7 @@ class lectorArchivos {
     }
 
 
-    leerArchivo(file){
+    read(file){
 
        var string = "<h3>"+file.name + "</h3>"
        var lector ;
